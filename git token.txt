@@ -1,0 +1,6 @@
+git branch -M main
+git remote add origin https://github.com/VedaIT2023/B1B7.git
+git push -u origin main
+
+
+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
